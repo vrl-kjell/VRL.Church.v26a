@@ -1,3 +1,42 @@
+# macOS system files
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+.Spotlight-V100
+.Trashes
+
+# VS Code settings (keep if you want team-shared settings)
+.vscode/
+
+# JetBrains IDEs (WebStorm, PhpStorm, etc.)
+.idea/
+
+# OS-generated thumbnails & metadata
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Temporary / lock files
+*.swp
+*.lock
+
+# Logs
+*.log
+
+# Node.js dependencies & caches (if you add tooling later)
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+.cache/
+
+# Build output (add only if you start using a build process)
+dist/
+build/
+
+# Ignore Jekyll build output
 _site
 .sass-cache
 .jekyll-cache
