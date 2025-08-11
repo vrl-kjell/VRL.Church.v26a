@@ -94,6 +94,9 @@ This includes all of the cross-site items described above
     * Links: Watch more | All Sermons
 + Transition element
 + Featured events
+    * Displayed as cards
+    * Horizontal scroll
+    * Limit to "All church" audience
 
 ## 
 
@@ -120,7 +123,14 @@ This includes all of the cross-site items described above
 █       ███        ██████████████  ████  ██  ████  ██  ████  ██        █
 
 ```                                                           
-                                   
+```
+
+ __   ___   _    _    _____   __  ___ ___   _   _      _    ___ ___ ___ 
+ \ \ / /_\ | |  | |  | __\ \ / / | _ \ __| /_\ | |    | |  |_ _| __| __|
+  \ V / _ \| |__| |__| _| \ V /  |   / _| / _ \| |__  | |__ | || _|| _| 
+   \_/_/ \_\____|____|___| |_|   |_|_\___/_/ \_\____| |____|___|_| |___|
+                                                                        
+```
                                                                                                                    
                                                                                                                    
                                                                                                                    
